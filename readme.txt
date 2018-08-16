@@ -1,6 +1,5 @@
 git is a distributed version control system.
 git is a free software distributed under the GPL.
-Creat a new branch is quick.chongtumaster
-Creat a new branch is quick.@sample
-Creat a new branch is quick.Featurel
+Creat a new branch is quick.dev
+
 
